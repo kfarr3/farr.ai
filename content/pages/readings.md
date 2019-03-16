@@ -3,6 +3,12 @@ Slug: readings
 
 Books I've read and Courses I've taken
 
+# March 2019
+
+* Deep Work - Cal Newport
+* The Manager's Path - Camille Fournier
+* The Five Dysfunctions of a Team - Patrick Lencioni
+
 # February 2019
 
 * So Good They Can't Ignore You - Cal Newport
