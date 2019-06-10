@@ -3,6 +3,14 @@ Slug: readings
 
 Books I've read and Courses I've taken
 
+# June 2019
+
+* Flash Boys - Michael Lewis
+
+# May 2019
+
+* A Song of Ice adn Fire: A Feast for Crows
+
 # March 2019
 
 * Deep Work - Cal Newport
