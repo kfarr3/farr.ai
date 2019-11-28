@@ -5,6 +5,7 @@ Books I've read and Courses I've taken
 
 # 2019
 
+* Product Leadership - Banfield, Eriksson, Walkinshaw
 * Prediction Machines
 * The Servant as Leader - Robert K. Greenleaf
 * Business Adventures - John Brooks
