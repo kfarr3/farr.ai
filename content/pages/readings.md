@@ -5,6 +5,7 @@ Books I've read and Courses I've taken
 
 # 2019
 
+* Zero to One - Peter Thiel
 * The Essays of Warren Buffett - Lawrence Cunningham
 * Product Leadership - Banfield, Eriksson, Walkinshaw
 * Prediction Machines
