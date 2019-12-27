@@ -4,7 +4,7 @@ from __future__ import unicode_literals
 
 AUTHOR = 'Kenneth R. Farr III'
 SITENAME = 'Farr.AI'
-SITEURL = ''
+SITEURL = 'https://farr.ai'
 
 PATH = 'content'
 
@@ -14,7 +14,15 @@ DEFAULT_LANG = 'en'
 
 STATIC_PATHS = ['media']
 
-
+MARKDOWN = {
+    'extension_configs': {
+        'markdown.extensions.codehilite': {'css_class': 'highlight'},
+        'markdown.extensions.extra': {},
+        'markdown.extensions.meta': {},
+        'markdown.extensions.toc': {},
+    },
+    'output_format': 'html5',
+}
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
 CATEGORY_FEED_ATOM = None
@@ -38,4 +46,4 @@ SOCIAL = (
 DEFAULT_PAGINATION = False
 
 # Uncomment following line if you want document-relative URLs when developing
-RELATIVE_URLS = True
+#RELATIVE_URLS = True
