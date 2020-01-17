@@ -3,8 +3,14 @@ Slug: readings
 
 Books I've read and Courses I've taken
 
+# 2020
+
+* Never Split The Difference - Chris Voss
+* Winning The Loser's Game
+
 # 2019
 
+* Nudge - Richard Thaler
 * Zero to One - Peter Thiel
 * The Essays of Warren Buffett - Lawrence Cunningham
 * Product Leadership - Banfield, Eriksson, Walkinshaw
