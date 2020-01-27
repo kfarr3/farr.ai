@@ -48,7 +48,6 @@ Books I've read and Courses I've taken
 * Measuring and Managing Information Risk
 * The Snowball - Warren Buffett and the Business of Life
 * Udacity's AI Nano Degree
-* Udacity's AI NanoDegree
 
 # 2017
 
