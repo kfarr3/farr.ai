@@ -13,7 +13,7 @@ I've recently been experimenting more with pymc3's library for probabilistic pro
 
 ![Futurama Fry with text "No Bueno...."]({static}/media/2020/pymc3/no_bueno.jpg){style="margin: 10px" align="right" width="150"} Thinking this was just my slow machine, I kept going, until I put together a slightly more complicated model that I calculated would take hours to finish. No bueno. Running a sampler with 4000 samples at 20 samples/second is only 3.3 minutes, but my actual model is around 200k samples, which is around 2.7 hours.  I may be patient, but I'm not that patient.  So, like any good scientist, I investigate the warnings that I ignored when charging ahead with something new.
 
-![No g++ Warning from Theano]({static}/media/2020/pymc3/3 no_g++_warning.png){width="100%"}
+![No g++ Warning from Theano]({static}/media/2020/pymc3/3 no_gpp_warning.png){width="100%"}
 
 # Install ming-gw-64
 
@@ -36,7 +36,7 @@ So, conda out, needing 64-bit MinGW, go here: <http://mingw-w64.org/doku.php/dow
 ![Roby the Robot"]({static}/media/2020/pymc3/danger.jpg){style="margin: 10px" align="right" width="150"}
 If, like me, you charge ahead with default options because there are way too many damn options in this world (also, shout out here for intelligently designed [Nudges](https://www.amazon.com/Nudge-Improving-Decisions-Health-Happiness/dp/014311526X), of which this was not one).  If you ended up like me with the following error and no speed improvements:
 
-![Wrong g++ Warning from Theano]({static}/media/2020/pymc3/4 wrong_g++.png){width="100%"}
+![Wrong g++ Warning from Theano]({static}/media/2020/pymc3/4 wrong_gpp.png){width="100%"}
 
 >Exception: Compilation failed (return status=1): cc1plus.exe: sorry, unimplemented: 64-bit mode not compiled in.
 
@@ -44,7 +44,7 @@ WHAT?
 
 Well, you unintentionally installed the `i686` version and not the `x86_64` version.
 
-![MinGW x86_64 v i686 setting]({static}/media/2020/pymc3/5 setting_correct_g++.png){width="50%"}
+![MinGW x86_64 v i686 setting]({static}/media/2020/pymc3/5 setting_correct_gpp.png){width="50%"}
 
 Change that, reinstall, re-update your path (which I didn't mention above, but yeah, you need to update your path to include the location of the MinGW bin directory, which for me was in: `C:\Program Files\mingw-w64\x86_64-8.1.0-posix-seh-rt_v6-rev0\mingw64\bin`.)  Additionally, between each path update you need to relaunch PowerShell.  There is a command you can run to reload it, but it's faster for me to just relaunch.
 
