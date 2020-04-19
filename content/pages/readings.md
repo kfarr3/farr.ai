@@ -5,6 +5,8 @@ Books I've read and Courses I've taken
 
 # 2020
 
+* Black Swan - Nassim Nicholas Taleb
+* The Ethical Algorithm
 * Never Split The Difference - Chris Voss
 * Winning The Loser's Game
 
