@@ -5,6 +5,7 @@ Books I've read and Courses I've taken
 
 # 2020
 
+* The Man Who Solved The Market: How Jim Simons Launched The Quant Revolution
 * Algorithms to Live By
 * Black Swan - Nassim Nicholas Taleb
 * The Ethical Algorithm
