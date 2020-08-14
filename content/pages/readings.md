@@ -5,6 +5,7 @@ Books I've read and Courses I've taken
 
 # 2020
 
+* Beating the Street - Peter Lynch
 * The Seven Things Your Team Needs to Hear You Say - David M. Dye
 * The Man Who Solved The Market: How Jim Simons Launched The Quant Revolution
 * Algorithms to Live By
