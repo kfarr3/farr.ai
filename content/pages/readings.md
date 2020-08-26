@@ -5,6 +5,7 @@ Books I've read and Courses I've taken
 
 # 2020
 
+* The Great Crash 1929
 * An Introduction To Statistical Learning (ISL)
 * Beating the Street - Peter Lynch
 * The Seven Things Your Team Needs to Hear You Say - David M. Dye
