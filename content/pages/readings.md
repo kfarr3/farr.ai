@@ -5,6 +5,8 @@ Books I've read and Courses I've taken
 
 # 2020
 
+* Mothers of Data Science - Kate Strachnyi and Kristen Kehrer
+* Common Sense - The Investor's Guide to Equality, Opportunity, and Growth - Joel Greenblatt
 * The Great Crash 1929
 * An Introduction To Statistical Learning (ISL)
 * Beating the Street - Peter Lynch
