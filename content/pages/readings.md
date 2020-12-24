@@ -5,6 +5,7 @@ Books I've read and Courses I've taken
 
 # 2020
 
+* The Buccaneers of America - Alexander O. Exquemelin
 * The Outsiders - William N. Thorndike, Jr
 * Zero - The Biography of a Dangerous Idea by Charles Seife
 * Mothers of Data Science - Kate Strachnyi and Kristen Kehrer
