@@ -3,6 +3,13 @@ Slug: readings
 
 Books I've read and Courses I've taken
 
+# 2021
+
+* DataOps Cookbook
+* Scrum Practitioner's Guide
+* The Future for Investors
+* Range: Why Generalists Triumph In A Specialized World - David Epstein
+
 # 2020
 
 * Building Analytics Teams - John K. Thompsonwq
