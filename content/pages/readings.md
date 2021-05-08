@@ -5,6 +5,7 @@ Books I've read and Courses I've taken
 
 # 2021
 
+* A Seat At The Table - Mark Schwartz
 * DataOps Cookbook
 * Scrum Practitioner's Guide
 * The Future for Investors
