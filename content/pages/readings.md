@@ -5,6 +5,11 @@ Books I've read and Courses I've taken
 
 # 2021
 
+* Designing Data Intensive Applications - IN PROGRESS
+* The DevOps Handbook - IN PROGRESS
+* Distributed Systems Design Fundamentals Course - Udi Dahan
+* Software Architecture Patterns - Mark Richards
+* Service Oriented Architecture Course - Udi Dahan
 * A Seat At The Table - Mark Schwartz
 * DataOps Cookbook
 * Scrum Practitioner's Guide
