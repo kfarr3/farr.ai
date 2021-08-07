@@ -5,6 +5,7 @@ Books I've read and Courses I've taken
 
 # 2021
 
+* Quality of Earnings - Thornton O'Glove
 * Designing Data Intensive Applications - IN PROGRESS
 * The DevOps Handbook - IN PROGRESS
 * Distributed Systems Design Fundamentals Course - Udi Dahan
