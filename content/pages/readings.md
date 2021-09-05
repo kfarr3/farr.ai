@@ -5,9 +5,12 @@ Books I've read and Courses I've taken
 
 # 2021
 
+* Data Engineering Teams - Jesse Anderson
+* Shape Up - Ryan Singer
+* Remote: Office Not Required - Jason Fried and David Heinmeier Hansson
 * Quality of Earnings - Thornton O'Glove
-* Designing Data Intensive Applications - IN PROGRESS
-* The DevOps Handbook - IN PROGRESS
+* Designing Data Intensive Applications
+* The DevOps Handbook
 * Distributed Systems Design Fundamentals Course - Udi Dahan
 * Software Architecture Patterns - Mark Richards
 * Service Oriented Architecture Course - Udi Dahan
