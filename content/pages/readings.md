@@ -23,7 +23,7 @@ Books I've read and Courses I've taken
 
 # 2020
 
-* Building Analytics Teams - John K. Thompsonwq
+* Building Analytics Teams - John K. Thompson
 * The Buccaneers of America - Alexander O. Exquemelin
 * The Outsiders - William N. Thorndike, Jr
 * Zero - The Biography of a Dangerous Idea by Charles Seife
