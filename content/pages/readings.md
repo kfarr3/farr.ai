@@ -5,6 +5,7 @@ Books I've read and Courses I've taken
 
 # 2021
 
+* Turn the Ship Around - L. David Marquet
 * Data Engineering Teams - Jesse Anderson
 * Shape Up - Ryan Singer
 * Remote: Office Not Required - Jason Fried and David Heinmeier Hansson
