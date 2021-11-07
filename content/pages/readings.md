@@ -5,6 +5,7 @@ Books I've read and Courses I've taken
 
 # 2021
 
+* The Remains Of The Day - Kazuo Ishiguro
 * Turn the Ship Around - L. David Marquet
 * Data Engineering Teams - Jesse Anderson
 * Shape Up - Ryan Singer
