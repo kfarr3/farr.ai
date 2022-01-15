@@ -3,6 +3,11 @@ Slug: readings
 
 Books I've read and Courses I've taken
 
+# 2022
+
+* Utopia - Thomas More
+* Richer, Wiser, Happier - William Green
+
 # 2021
 
 * The Remains Of The Day - Kazuo Ishiguro
