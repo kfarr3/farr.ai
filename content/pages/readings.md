@@ -5,6 +5,9 @@ Books I've read and Courses I've taken
 
 # 2022
 
+* Visualizing Software Architecture - Simon Brown
+* Software Architecture for Developers - Simon Brown
+* A Philosophy of Software Design - John Oustehout
 * Utopia - Thomas More
 * Richer, Wiser, Happier - William Green
 
