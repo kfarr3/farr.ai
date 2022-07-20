@@ -5,6 +5,9 @@ Books I've read and Courses I've taken
 
 # 2022
 
+* Under The Black Flag - David Cordingly
+* You Can Be A Stock Market Genius - Joel Greenblatt
+* The Last Wish - Andrzej Sapkowski
 * Visualizing Software Architecture - Simon Brown
 * Software Architecture for Developers - Simon Brown
 * A Philosophy of Software Design - John Oustehout
