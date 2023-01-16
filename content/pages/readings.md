@@ -5,6 +5,8 @@ Books I've read and Courses I've taken
 
 # 2022
 
+* Team Topologies
+* The chief Data Officer's Playbook
 * Crossing The Chasm - Geoffrey Moore
 * Under The Black Flag - David Cordingly
 * You Can Be A Stock Market Genius - Joel Greenblatt
