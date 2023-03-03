@@ -3,10 +3,15 @@ Slug: readings
 
 Books I've read and Courses I've taken
 
+# 2023
+
+* Warren Buffett - Investor and Entrepreneur - Todd Finkle
+
+
 # 2022
 
 * Team Topologies
-* The chief Data Officer's Playbook
+* The Chief Data Officer's Playbook
 * Crossing The Chasm - Geoffrey Moore
 * Under The Black Flag - David Cordingly
 * You Can Be A Stock Market Genius - Joel Greenblatt
