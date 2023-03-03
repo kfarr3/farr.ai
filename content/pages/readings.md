@@ -7,7 +7,6 @@ Books I've read and Courses I've taken
 
 * Warren Buffett - Investor and Entrepreneur - Todd Finkle
 
-
 # 2022
 
 * Team Topologies
