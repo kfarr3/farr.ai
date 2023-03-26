@@ -6,6 +6,7 @@ Books I've read and Courses I've taken
 # 2023
 
 * Warren Buffett - Investor and Entrepreneur - Todd Finkle
+* The Pragmatic Programmer - David Thomas & Andrew Hunt
 
 # 2022
 
