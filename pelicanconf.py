@@ -45,3 +45,14 @@ THEME='gum'
 # Uncomment following line if you want document-relative URLs when developing
 RELATIVE_URLS = True
 
+DISPLAY_CATEGORIES_ON_MENU = False
+DISPLAY_PAGES_ON_MENU = False
+
+MENUITEMS = (
+    ('Engineering Guide', '/pages/engineering-guide.html'),
+    ('About Me', '/pages/about-me.html'),
+    ('Notes', '/pages/notes.html'),
+    ('Readings', '/pages/readings.html'),
+    ('Blog', '/category/blog.html'),
+    )
+
