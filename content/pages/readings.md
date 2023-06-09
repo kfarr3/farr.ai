@@ -11,6 +11,7 @@ Books I've read and Courses I've taken
 # 2022
 
 * Team Topologies
+* Introducing EventStorming
 * The Chief Data Officer's Playbook
 * Crossing The Chasm - Geoffrey Moore
 * Under The Black Flag - David Cordingly
