@@ -40,7 +40,7 @@ SOCIAL = (
 TYPOGRIFY = True
 DEFAULT_PAGINATION = 6
 
-THEME='gum'
+THEME='../pelican-themes/gum'
 
 # Uncomment following line if you want document-relative URLs when developing
 RELATIVE_URLS = True
