@@ -7,6 +7,7 @@ Books I've read and Courses I've taken
 
 * Warren Buffett - Investor and Entrepreneur - Todd Finkle
 * The Pragmatic Programmer - David Thomas & Andrew Hunt
+* The Ride of a Lifetime - Robert Iger
 
 # 2022
 
