@@ -5,6 +5,10 @@ Books I've read and Courses I've taken
 
 # 2023
 
+* Chip War - Chris Miller
+* Building Event Driven Microsystems - Adam Bellemare
+* Data Mesh - Zhamark Dehghani
+* True North - Bill George
 * Going Infinite - Michael Lewis
 * Warren Buffett - Investor and Entrepreneur - Todd Finkle
 * The Pragmatic Programmer - David Thomas & Andrew Hunt
