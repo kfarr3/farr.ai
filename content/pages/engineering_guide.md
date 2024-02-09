@@ -13,6 +13,8 @@ Most can expect to spend 20+ years in this field, thus, the desire to downgrade 
 
 Wisdom takes time and experience and mistakes.
 
+Always strive to be the pragmatic optimist in the room.  If that failes, aim for the [Techno-Optimist](https://a16z.com/the-techno-optimist-manifesto/).
+
 ## Junior Engineering Resources
 
 Junior engineers with about 5 years of experience would bennefit greatly from the following resources.  If you try to learn these lessons too early you may not have enough experience to understand what is being taught.  Additionally, within the first few years of entering the field, there's so much being learned about how your first 1-2 companies function that additional continueing education is lost on most.

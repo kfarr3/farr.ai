@@ -3,6 +3,12 @@ Slug: readings
 
 Books I've read and Courses I've taken
 
+# 2024
+
+* Domain Modeling Made Functional
+* The Two Towers
+* The Fellowship of the Righ
+
 # 2023
 
 * Chip War - Chris Miller
