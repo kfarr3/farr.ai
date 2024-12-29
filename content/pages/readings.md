@@ -5,9 +5,12 @@ Books I've read and Courses I've taken
 
 # 2024
 
+* To Hold The Bridge - Garth Nix
+* The Anxious Generation - Jonathan Haidt
+* Before the coffee gets cold - Toshikazu Kawaguchi
 * Domain Modeling Made Functional
 * The Two Towers
-* The Fellowship of the Righ
+* The Fellowship of the Ring
 
 # 2023
 
